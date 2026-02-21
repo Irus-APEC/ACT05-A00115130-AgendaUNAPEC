@@ -1,0 +1,13 @@
+C:\Users\charl\Desktop\ACT05_MvcEf\AgendaUNAPEC\bin\Release\net8.0\publish\AgendaUNAPEC.exe
+C:\Users\charl\Desktop\ACT05_MvcEf\AgendaUNAPEC\bin\Release\net8.0\publish\NuGet.Config
+C:\Users\charl\Desktop\ACT05_MvcEf\AgendaUNAPEC\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\charl\Desktop\ACT05_MvcEf\AgendaUNAPEC\bin\Release\net8.0\publish\appsettings.json
+C:\Users\charl\Desktop\ACT05_MvcEf\AgendaUNAPEC\bin\Release\net8.0\publish\AgendaUNAPEC.dll
+C:\Users\charl\Desktop\ACT05_MvcEf\AgendaUNAPEC\bin\Release\net8.0\publish\AgendaUNAPEC.runtimeconfig.json
+C:\Users\charl\Desktop\ACT05_MvcEf\AgendaUNAPEC\bin\Release\net8.0\publish\AgendaUNAPEC.pdb
+C:\Users\charl\Desktop\ACT05_MvcEf\AgendaUNAPEC\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\charl\Desktop\ACT05_MvcEf\AgendaUNAPEC\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\charl\Desktop\ACT05_MvcEf\AgendaUNAPEC\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\charl\Desktop\ACT05_MvcEf\AgendaUNAPEC\bin\Release\net8.0\publish\Npgsql.dll
+C:\Users\charl\Desktop\ACT05_MvcEf\AgendaUNAPEC\bin\Release\net8.0\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\charl\Desktop\ACT05_MvcEf\AgendaUNAPEC\bin\Release\net8.0\publish\AgendaUNAPEC.deps.json

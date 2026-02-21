@@ -10,7 +10,7 @@
         "projectUniqueName": "C:\\Users\\charl\\Desktop\\ACT05_MvcEf\\AgendaUNAPEC\\AgendaUNAPEC.csproj",
         "projectName": "AgendaUNAPEC",
         "projectPath": "C:\\Users\\charl\\Desktop\\ACT05_MvcEf\\AgendaUNAPEC\\AgendaUNAPEC.csproj",
-        "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\charl\\Desktop\\ACT05_MvcEf\\AgendaUNAPEC\\.nuget\\packages",
         "outputPath": "C:\\Users\\charl\\Desktop\\ACT05_MvcEf\\AgendaUNAPEC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -56,9 +56,17 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
@@ -78,24 +86,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.24, 8.0.24]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.24, 8.0.24]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.24, 8.0.24]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.24, 8.0.24]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
