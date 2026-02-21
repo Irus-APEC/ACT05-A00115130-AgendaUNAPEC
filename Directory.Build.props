@@ -1,5 +1,7 @@
 <Project>
   <PropertyGroup>
+    <!-- Mata cualquier fallback path (incluyendo el de Visual Studio en Windows) -->
     <RestoreFallbackFolders></RestoreFallbackFolders>
+    <RestoreAdditionalProjectSources></RestoreAdditionalProjectSources>
   </PropertyGroup>
 </Project>
